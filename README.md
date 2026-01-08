@@ -31,4 +31,8 @@ Educational use only.
 
 ---
 
+<<<<<<< HEAD
 **Note**: This is a training project as part of the IBM AI Engineer Certificate program.
+=======
+**Note**: This is a training project as part of the IBM AI Engineer Certificate program.
+>>>>>>> 1ddbdda06246cc6853c85ab5cf3a43a02990cefd
